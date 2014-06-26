@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>qs</artifactId>
-    <version>0.6.6</version>
+    <version>0.6.7-SNAPSHOT</version>
     <name>qs</name>
     <description>WebJar for node-querystring</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>https://github.com/webjars/qs</url>
         <connection>scm:git:https://github.com/webjars/qs.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/qs.git</developerConnection>
-        <tag>qs-0.6.6</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
